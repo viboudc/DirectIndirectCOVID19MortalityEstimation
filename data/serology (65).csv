@@ -1,0 +1,49 @@
+﻿region,abbreviation,Location,date1,date2,date_midpoint,seroprevalence,seroprevalence_lwr,seroprevalence_upr
+Alabama,AL,South,5,17,11,18,14.2,21
+Alaska,AK,West,-1,15,7,5,2.9,7.9
+Arizona,AZ,West,5,8,6.5,15,11.3,18.9
+Arkansas,AR,South,5,18,11.5,15,11.1,19.6
+California,CA,West,5,9,7,13,9.3,17
+Colorado,CO,West,-3,16,6.5,7,3.1,12.4
+Connecticut,CT,Northeast,5,18,11.5,8,5,10.9
+Delaware,DE,South,5,17,11,9,6.4,12.4
+Florida,FL,South,5,12,8.5,12,7,16.8
+Georgia,GA,South,5,7,6,9,6.2,12.8
+Hawaii,HI,West,1,18,9.5,3,1.3,4.4
+Idaho,ID,West,2,16,9,13,10,17.4
+Illinois,IL,Midwest,5,17,11,22,15.6,29.1
+Indiana,IN,Midwest,1,14,7.5,20,11.9,28.5
+Iowa,IA,Midwest,1,16,8.5,13,9.2,18.1
+Kansas,KS,Midwest,2,13,7.5,11,7,15.4
+Kentucky,KY,South,5,18,11.5,16,12.1,19.1
+Louisiana,LA,South,1,17,9,11,7.5,15.4
+Maine,ME,Northeast,5,17,11,4.4,1.6,7.8
+Maryland,MD,South,1,15,8,6,3.7,9.1
+Massachusetts,MA,Northeast,5,17,11,10,7,13.5
+Michigan,MI,Midwest,5,18,11.5,13,9.4,16.1
+Minnesota,MN,Midwest,-2,16,7,15,9.6,19.9
+Mississippi,MS,South,5,14,9.5,19,15,23.5
+Missouri,MO,Midwest,5,18,11.5,16,10.9,20.4
+Montana,MT,West,5,16,10.5,9,1.8,16.4
+Nebraska,NE,Midwest,2,16,9,16,11.3,21.5
+Nevada,NV,West,5,16,10.5,14,10.1,17.2
+New Hampshire,NH,Northeast,5,8,6.5,7,3.6,10
+New Jersey,NJ,Northeast,1,15,8,18,14.1,23
+New Mexico,NM,West,-2,17,7.5,10,6.9,13.5
+New York,NY,Northeast,-2,17,7.5,9,6.3,13
+North Carolina,NC,South,5,14,9.5,12,8.8,16.2
+Ohio,OH,Midwest,5,17,11,18,14,22.6
+Oklahoma,OK,South,2,9,5.5,17,13.4,21.8
+Oregon,OR,West,2,14,8,5,2.4,7.1
+Pennsylvania,PA,Northeast,5,18,11.5,14,9.9,18.5
+Rhode Island,RI,Northeast,5,17,11,11,6.9,15.5
+South Carolina,SC,South,5,15,10,14,9.6,17.9
+Tennessee,TN,South,5,17,11,19,13.9,24.3
+Texas,TX,South,1,15,8,16,11.6,21
+Utah,UT,West,5,12,8.5,14,10.3,18.4
+Vermont,VT,Northeast,5,17,11,4,1,7.9
+Virginia,VA,South,1,15,8,6,3.4,9.5
+Washington,WA,West,2,15,8.5,4,1.3,6.4
+West Virginia,WV,South,5,17,11,12,8.6,16.1
+Wisconsin,WI,Midwest,5,17,11,20,14.5,24.5
+Wyoming,WY,West,5,17,11,13,8.7,17.3

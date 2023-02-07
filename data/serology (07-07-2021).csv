@@ -1,0 +1,49 @@
+﻿region,abbreviation,Location,date1,date2,date_midpoint,seroprevalence,seroprevalence_lwr,seroprevalence_upr
+Alabama,AL,South,5,17,11,30.3,27.4,33.4
+Alaska,AK,West,-1,15,7,9.9,6.2,14.2
+Arizona,AZ,West,5,8,6.5,27.9,25.1,30.7
+Arkansas,AR,South,5,18,11.5,26.4,23.6,28.9
+California,CA,West,5,9,7,24.1,21.5,26.8
+Colorado,CO,West,-3,16,6.5,13.6,10.8,17
+Connecticut,CT,Northeast,5,18,11.5,10.4,8.6,12.3
+Delaware,DE,South,5,17,11,16.7,14.5,19.1
+Florida,FL,South,5,12,8.5,22.3,19.8,24.8
+Georgia,GA,South,5,7,6,17.7,15.4,20.4
+Hawaii,HI,West,1,18,9.5,2.5,1.2,4.6
+Idaho,ID,West,2,16,9,18.5,14.2,22.7
+Illinois,IL,Midwest,5,17,11,33.6,30.5,36.8
+Indiana,IN,Midwest,1,14,7.5,25.8,20,32
+Iowa,IA,Midwest,1,16,8.5,20.5,16.9,24.1
+Kansas,KS,Midwest,2,13,7.5,15,12.7,17.5
+Kentucky,KY,South,5,18,11.5,23.9,21.3,26.5
+Louisiana,LA,South,1,17,9,14.5,12.3,17
+Maine,ME,Northeast,5,17,11,4.7,2.8,7
+Maryland,MD,South,1,15,8,25.7,21.9,29.4
+Massachusetts,MA,Northeast,5,17,11,10.7,8.8,12.7
+Michigan,MI,Midwest,5,18,11.5,24.3,21.3,27.6
+Minnesota,MN,Midwest,-2,16,7,11.1,9.2,13.3
+Mississippi,MS,South,5,14,9.5,27.7,23.8,32.3
+Missouri,MO,Midwest,5,18,11.5,26,22.9,29.5
+Montana,MT,West,5,16,10.5,13.2,8.5,18.2
+Nebraska,NE,Midwest,2,16,9,17.9,14.1,21.4
+Nevada,NV,West,5,16,10.5,27.4,24.2,30.7
+New Hampshire,NH,Northeast,5,8,6.5,7.9,5.6,11.9
+New Jersey,NJ,Northeast,1,15,8,31.3,28.1,34.3
+New Mexico,NM,West,-2,17,7.5,16.4,14,18.9
+New York,NY,Northeast,-2,17,7.5,12.3,10.3,14.5
+North Carolina,NC,South,5,14,9.5,23,20.2,25.6
+Ohio,OH,Midwest,5,17,11,33.2,30.7,35.9
+Oklahoma,OK,South,2,9,5.5,18.7,16.3,20.9
+Oregon,OR,West,2,14,8,6.8,5,8.6
+Pennsylvania,PA,Northeast,5,18,11.5,22.5,20,25.5
+Rhode Island,RI,Northeast,5,17,11,12.4,10,14.9
+South Carolina,SC,South,5,15,10,24.2,21.6,26.5
+Tennessee,TN,South,5,17,11,29.5,26.9,32.4
+Texas,TX,South,1,15,8,33.9,29.9,38.6
+Utah,UT,West,5,12,8.5,27.4,22.2,32.2
+Vermont,VT,Northeast,5,17,11,2.4,1,4.3
+Virginia,VA,South,1,15,8,15.8,12.6,19.8
+Washington,WA,West,2,15,8.5,6.6,4.9,8.2
+West Virginia,WV,South,5,17,11,10.5,7.9,13.2
+Wisconsin,WI,Midwest,5,17,11,30.1,26.6,33.4
+Wyoming,WY,West,5,17,11,29,23.8,33.8
